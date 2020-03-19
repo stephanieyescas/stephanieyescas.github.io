@@ -1,0 +1,17 @@
+
+h2 {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+body {
+    font-family: helvetica;
+    background-color: lightblue;
+}
+
+
+#date {
+  font-size: 12px;
+  font-style: italic;
+  font-weight: bold;
+}

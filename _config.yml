@@ -21,7 +21,6 @@
 title: Stephanie Yescas
 email: yescas@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a senior at Stanford University studying Computer Science and Economics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  stephanieyescas
